@@ -21,8 +21,10 @@ returns the whole walk as data.
 
 ## Install
 
+hopcheck is not on PyPI. Install it from source:
+
 ```
-pip install hopcheck
+pip install git+https://github.com/theluckystrike/hopcheck
 ```
 
 There are no dependencies. Python 3.8 or newer, standard library only.

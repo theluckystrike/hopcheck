@@ -37,9 +37,11 @@ nobody planned, and hopcheck prints the whole thing.
 Install
 -------
 
+hopcheck is not on PyPI. Install it from source:
+
 .. code-block:: console
 
-   $ pip install hopcheck
+   $ pip install git+https://github.com/theluckystrike/hopcheck
 
 No dependencies. Python 3.8 or newer, standard library only.
 
