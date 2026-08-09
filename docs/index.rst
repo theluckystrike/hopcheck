@@ -21,10 +21,10 @@ Why it exists
 -------------
 
 This package was pulled out of the verification step of a link pipeline.
-`handsofflinks <https://handsofflinks.com/>`_ re-fetches every page it has
-published and reads the link attribute off the served HTML before any row in
-its ledger is allowed to say LIVE, on the principle that a counterparty's word
-about a link is not evidence. The rule that came out of running that check in
+`the handsofflinks link pipeline <https://handsofflinks.com/>`_ re-fetches
+every page it has published and reads the link attribute off the served HTML
+before any row in its ledger is allowed to say LIVE, on the principle that a
+counterparty's word about a link is not evidence. The rule that came out of running that check in
 anger was blunt: *never read a verdict off a followed redirect*, because the
 followed request quietly discards the two things you were trying to check —
 whether the URL you published is the URL that answered, and whether anything
