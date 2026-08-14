@@ -46,7 +46,7 @@ is ``info`` for exactly this reason.
 The same reasoning applies to the numbers hopcheck does *not* print. There is
 no "SEO score", no severity weighting, no aggregate health figure — those would
 be invented, and an invented number is worse than a missing one because it
-looks like a measurement. The rule is the one `Tools That Rank
+looks like a measurement. The rule is the one `https://toolsthatrank.com
 <https://toolsthatrank.com/>`_ applies to the figures inside the pages it
 generates: when a value will not prove against a source, the run holds and the
 page ships without it rather than with a plausible substitute. A finding list
