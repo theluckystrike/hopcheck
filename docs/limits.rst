@@ -51,6 +51,11 @@ looks like a measurement. The rule is the one `https://toolsthatrank.com
 generates: when a value will not prove against a source, the run holds and the
 page ships without it rather than with a plausible substitute. A finding list
 with twelve honest codes and no score is that rule applied to a redirect audit.
+You can see the rule on a live page in `ToolsThatRank's position-band
+click-through calculator <https://toolsthatrank.com/ctr-by-position-calculator/>`_:
+each band's rate is printed next to the clicks and impressions it was divided
+from, and the page labels it as one operator's Search Console properties rather
+than an industry benchmark.
 
 Alternatives, and when they are the better answer
 -------------------------------------------------
